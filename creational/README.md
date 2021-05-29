@@ -1,7 +1,7 @@
 # Creational
 
 * [Builder Pattern](https://github.com/ravi26067/JavaDesignPattern/tree/master/creational/builder)
-* Singleton Pattern
+* [Singleton Pattern](https://github.com/ravi26067/JavaDesignPattern/tree/master/creational/singleton)
 * Prototype Pattern
 * Facotry Method Pattern
 * Abstract Factory Pattern
