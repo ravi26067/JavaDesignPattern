@@ -8,12 +8,16 @@ Its trivial to new-up an object of a class but how do we ensure that only one ob
 
 Formally the Singleton pattern is defined as ensuring that only a single instance of a class exists and a global point of access to it exists.
 
-Class Diagram
+## Class Diagram
 The class diagram consists of only a single entity
 
 Singleton
 Class Diagram
 Class Diagram
+
+<p align=center>
+<img src="https://github.com/ravi26067/JavaDesignPattern/blob/master/source/singleton.png" height=500 width=900 />
+</p>
 
 ## Example
 As an example, let's say we want to model the American President's official aircraft called "Airforce One" in our software. There can only be one instance of Airforce One and a singleton class is the best suited representation.
@@ -111,7 +115,7 @@ The above solution marks the singleton instance volatile however the JVM volatil
 
 The double checked locking is now considered an antipattern and its utility has largely passed away as JVM startup times have sped up over the years.
 
-Other Examples
+## Other Examples
 In the Java API we have the following singletons:
 
 java.lang.Runtime
