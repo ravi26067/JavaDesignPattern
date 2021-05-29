@@ -4,7 +4,7 @@ Why do we need patterns? The blunt answer is we don't want to reinvent the wheel
 
 Below is an image showing the relationship among the various design patterns as explained by the seminal design patterns work done by the gang of four.
 
-<img src = "https://github.com/ravi26067/JavaDesignPattern/blob/master/source/image.png" height=1000 width="1200"/>
+<img src = "https://github.com/ravi26067/JavaDesignPattern/blob/master/source/design.png" height=1000 width="1200"/>
 
 Example
 Let's consider an example to understand what design patterns are and how do they get applied. The class constructor is one of the basic concepts in an object oriented language. The constructors help create objects of the class and can take in parameters. Let us take the following class as an example.
